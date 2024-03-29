@@ -2,7 +2,7 @@
   
   ## `React Todo Listing App`
   
-  ### `Live Preview💯`   💕[React Todo Listing App](https://sbctodolistingapp.netlify.app/)💕
+  ### `💯Live Preview:`   💕[React Todo Listing App](https://sbctodolistingapp.netlify.app/)💕
 
 </div> 
 
